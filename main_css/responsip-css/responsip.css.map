@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,MAAM,CAAC,MAAM,MAAM,SAAS,EAAE,MAAM;EAClC,AAAA,aAAa,CAAC;IACZ,MAAM,EAAE,QAAQ;GACjB;EACD,AAAA,gBAAgB,CAAC;IACf,MAAM,EAAE,QAAQ;GACjB;EACD,AAAA,mBAAmB,CAAC;IAClB,MAAM,EAAE,KAAK;GACd",
+    "sources": [
+        "responsip.scss"
+    ],
+    "names": [],
+    "file": "responsip.css"
+}
